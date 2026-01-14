@@ -1,2 +1,0 @@
-code
-assests folder
