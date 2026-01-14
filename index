@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Electra Frequency</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- LOTUS BACKGROUND -->
+  <div class="petals"></div>
+
+  <!-- HEADER -->
+  <header class="hero">
+    <img src="assets/header.png" alt="The Electra Frequency symbol" class="hero-logo"/>
+
+    <h1>
+      You don’t make life count by doing more.<br/>
+      You make it count by being here.
+    </h1>
+
+    <div class="buttons">
+      <button class="primary">Breathe With Me</button>
+      <button class="secondary">Step Into the Frequency</button>
+    </div>
+  </header>
+
+  <!-- INTRO SECTION -->
+  <section class="content">
+    <p>
+      Electra Frequency is an unapologetically adult space blending breathwork,
+      yoga, meditation, embodiment, and erotic energy.
+    </p>
+
+    <p>
+      This is an entrance — not an explanation — into premium, members-only
+      experiences and a creative collective for artists, facilitators,
+      and adult creators.
+    </p>
+
+    <p class="muted">
+      Sensual. Grounded. Non-performative. Nervous-system safe.
+    </p>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>Stillness is not passive. It’s unavailable for manipulation.</p>
+    <small>© Electra Frequency</small>
+  </footer>
+
+</body>
+</html>
